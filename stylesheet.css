@@ -78,17 +78,11 @@ button {
     background: none;
     border: 0px;
     font-size: 20px;
-    margin: 0 72px ;
+    margin: 0 60px ;
     font-family: sans-serif;
     cursor: pointer;
 }
 #todoList:hover {
-    width: 278px;
-    margin-top: 72px;
-    margin-left: 473px;
     background: #c3c3c3;
-    -moz-box-shadow: 2px 2px 15px #ccc;
-    -webkit-box-shadow: 2px 2px 15px #ccc;
-    box-shadow: 2px 2px 15px #ccc;
     color:white;
 }
